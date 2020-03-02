@@ -1,0 +1,28 @@
+.main-box{
+    width: 700px;
+    background-color: grey;
+    padding-top: 90px;
+    padding-bottom: 10px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 16px;
+    outline: none;
+}
+.btn{
+    width: 100px;
+    height: 38px;
+    color: white;
+    margin-left: 22px;
+    background-color: skyblue;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+}
+.btn:nth-child(2){
+    width: 275px;
+    margin-left: 20%;
+    background-color: skyblue;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+}
